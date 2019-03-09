@@ -1,0 +1,26 @@
+header {
+  text-align: center;
+}
+
+.blog-post h2 {
+  color: red;
+}
+.blog-post h3 {
+  font-size: 20px;
+  color: orange;
+}
+
+div {
+  -webkit-border-radius: 80px;
+  -moz-border-radius: 80px;
+  -ms-border-radius: 80px;
+  border-radius: 80px;
+}
+
+#sun {
+  width: 150px;
+  height: 150px;
+  background-color: gold;
+}
+
+/*# sourceMappingURL=styles.css.map */
